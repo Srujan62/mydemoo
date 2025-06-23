@@ -1,2 +1,3 @@
 # mydemoo
-first git re4po
+first git repo
+author = srujan
