@@ -1,4 +1,4 @@
 # mydemoo
 first git repo.
 <br>
-author = srujan
+author = srujan kumar
